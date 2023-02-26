@@ -1,2 +1,2 @@
-# MasterClass-Fluterrando
-Repositório dos desafios da masterclass da fluterando
+# MasterClass-Flutterando
+Repositório dos desafios da masterclass da flutterando
